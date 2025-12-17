@@ -10,7 +10,6 @@ This contains all the features that an ecommerce website should have.
 Link to the website [Click here](https://kinbechsaman.herokuapp.com/)
 
 
-
 #### To have an admin privelege
 
 ##### email= gomacef971@tinydef.com
